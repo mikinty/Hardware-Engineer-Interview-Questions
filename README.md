@@ -5,6 +5,6 @@ Finding hardware engineering jobs is often difficult given the high education ba
 ## Table of Contents
 
   1. [General Questions](questions/general-questions.md)
-  1. [Analog Questions](questions/analog-questions.md)
-  1. [Digital Questions](questions/digital-questions.md)
-  1. [Embedded Questions](questions/embedded-questions.md)
+  2. [Analog Questions](questions/analog-questions.md)
+  3. [Digital Questions](questions/digital-questions.md)
+  4. [Embedded Questions](questions/embedded-questions.md)
