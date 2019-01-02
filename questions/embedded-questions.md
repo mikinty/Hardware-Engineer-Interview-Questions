@@ -8,7 +8,7 @@
 
 * What is an interrupt?
   * What are the different types of interrupts?
-  * How would you implement an interrupt handler? 
+  * How would you implement an interrupt handler?
 
 ## Scheduling
 
@@ -34,7 +34,6 @@
   * Basic Priority Inheritance Protocol
   * Highest Locker's Priority Protocol
   * Priority Ceiling Protocol
-
 
 ## Peripherals
 
