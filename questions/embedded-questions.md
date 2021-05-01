@@ -2,13 +2,17 @@
 
 ## Assembly
 
-* Explain the advantages and disadvantages of using RISC vs CISC
+* Explain the advantages and disadvantages of using RISC vs CISC architectures
+* Explain some ways compilers optimize assembly code
+* Describe why it is sometimes necessary for developers to code in assembly
+* What is context switching? How do you perform it?
 
 ## Kernel
 
 * What is an interrupt?
   * What are the different types of interrupts?
   * How would you implement an interrupt handler?
+  * What are some applications of interrupts?
 
 ## Scheduling
 
