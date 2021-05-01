@@ -9,4 +9,6 @@ Inspired by https://github.com/h5bp/Front-end-Developer-Interview-Questions
   1. [General Questions](questions/general-questions.md)
   2. [Analog Questions](questions/analog-questions.md)
   3. [Digital Questions](questions/digital-questions.md)
-  4. [Embedded Questions](questions/embedded-questions.md)
+  4. [Computer Architecture Questions](questions/computer-architecture-questions.md)
+  5. [Embedded Questions](questions/embedded-questions.md)
+  6. [Design Questions](questions/design-questions.md)
