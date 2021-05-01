@@ -1,0 +1,6 @@
+## How to Contribute
+
+1. Fork the repo. Comitting directly to `master` is not allowed. To do this, use the Github UI to create a fork (upper right hand corner for web)
+2. Make your changes
+3. **Please use markdown**, unless you have styling that is absolutely unsupported. In that case, you may consider creating a new folder in the repo with other assets, like images or PDFs.
+4. Once you're done, open a pull request from your branch to the master branch of this repo, and get it approved. Once it is approved, someone who is a contributor to the repo will merge it to master.
