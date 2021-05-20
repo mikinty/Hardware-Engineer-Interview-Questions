@@ -38,3 +38,8 @@
 
 * Code a class for a Queue
 * Write a module that computes the Fibonacci numbers
+
+
+## Resources
+
+* [All you need to know about USB](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
