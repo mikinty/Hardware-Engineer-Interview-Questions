@@ -4,10 +4,12 @@ This category is about how computers process information. It is a natural extens
 
 * Describe what a CPU is.
 * What is the difference between RISC and CISC architecture?
+* What is a Turing Machine, and how does it relate to how we design computers?
 * What is the canonical RISC 5-stage pipeline? Describe each step.
   * Why do some architectures have more/less than 5 stages?
 * Describe what pipelining is, and why it is important for computers.
 * What is prefetching?
+  * Why is accessing memory so slow?
 * Describe some limitations on your CPU design if you have to manufacture it into a real computer.
 
 ## Applications

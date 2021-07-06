@@ -18,3 +18,5 @@ to build larger systems.
   * How would you design a UI to make it easily usable by people?
   * How would you make it autonomous?
   * How do you make your lawn mower safe?
+* **Build an Autonomous Car**
+* **Build an Elevator**

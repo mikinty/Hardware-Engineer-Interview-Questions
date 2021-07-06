@@ -1,5 +1,8 @@
 # Embedded Questions
 
+- What does it mean to program on "bare metal"?
+  - Why do we not get exceptions and errors thrown at us for free when we work with embedded code?
+
 ## Assembly
 
 * Explain the advantages and disadvantages of using RISC vs CISC architectures
