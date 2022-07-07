@@ -49,6 +49,46 @@
   * Why are FPGAs useful?
   * Why would we use an FPGA over an ASIC or over a computer?
 
+* What are some of the main components that make up an FPGA and why are they useful?
+  * LUTs
+  * FFs
+  * DRAM, BRAM, URAM
+  * DSPs
+  * PCIe
+  * Transcievers
+
+* What is a High-Speed Gigabit Transciever on an FPGA?
+  * Why is this necessary or important?
+  * How does it interact with PCS/PMA/MAC?
+
+* How does an FPGA implement a function?
+  * How do LUTs work?
+
+* What are the different ways to store memory on an FPGA?
+  * FFs vs. LUTs vs. RAM
+
+* What are the necessary steps to go from RTL code to FPGA bitstream?
+
+* How might the FPGA interact with host (CPU)?
+  * describe DMA and PCIe
+  * describe NIC and ethernet packets
+
+* What are Bus Funtional Models (BFMs) and how do they help with FPGA design verification?
+
+* What are the differences between simulation and emulation (on-board/silicon)?
+
+* What are some of the main tools FPGA engineers use today?
+  * Simulation
+  * Verification
+  * Emulation
+  * Network Debugging
+
+* Describe CLBs and how they relate to LUTs and FFs on an FPGA
+
+* Describe ways to send stimulus (signals, packets, memory writes, etc) to a simulation RTL for verification purposes
+  * Testbenches in SystemVerilog
+  * C++ using SystemC library
+
 ## System Verilog
 
 * Difference between blocking and nonblocking statements
