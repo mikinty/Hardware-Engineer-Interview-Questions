@@ -36,8 +36,11 @@
   * Bitstuffing
   * NRZI
   * DPDM
-  * Difference between USB 2 and 3 (and USB-C! if you're a youngin')
+  * Difference between USB 2 and 3 (and USB-C!)
 * Generally know how to implement memory in digital circuits
+* Describe different steps in an ethernet protocol, e.g. packet scrambling, headers, etc.
+* Describe how you would implement SHA-256 (or maybe a simpler crypto algorithm)
+* Describe how TCP/UDP works
 
 ## FPGAs
 
@@ -50,6 +53,11 @@
 
 * Difference between blocking and nonblocking statements
 * What is the difference between `rand` and `randc`
+
+## FSM Design
+
+* Design a traffic light FSM, that takes care of W-E, N-S intersection, with Red, Yellow and Green lights
+* Design the FSM for a vending machine that takes nickels, quarters and dimes, dispenses water bottles for $1, and gives change if the amount given is over, but does nothing if the amount of money is not enough.
 
 ## Coding
 
