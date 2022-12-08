@@ -12,6 +12,7 @@
   * Fully encoded
 * Explain the difference between a Mealy and Moore machine
 * Design a latch
+* Desing XOR gate using 2:1 MUX [solution](https://vlsiuniverse.blogspot.com/2016/12/XOR-gate-using-mux.html)
 
 ## Circuits
 
