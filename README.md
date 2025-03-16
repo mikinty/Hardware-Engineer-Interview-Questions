@@ -16,4 +16,4 @@ Inspired by https://github.com/h5bp/Front-end-Developer-Interview-Questions
 ## Resources
 
 - [Great Analog Textbook about Transistors by Razavi](https://amzn.to/3Omil71)
-- [Analog Integrated Circuits: _Analysis and Design of Analog Integrated Circuits, 5th Edition_](https://amzn.to/3Omil71)
+- [Analog Integrated Circuits: _Analysis and Design of Analog Integrated Circuits, 5th Edition_](https://amzn.to/39yyU0W)
