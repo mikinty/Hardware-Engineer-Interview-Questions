@@ -12,3 +12,8 @@ Inspired by https://github.com/h5bp/Front-end-Developer-Interview-Questions
   4. [Computer Architecture Questions](questions/computer-architecture-questions.md)
   5. [Embedded Questions](questions/embedded-questions.md)
   6. [Design Questions](questions/design-questions.md)
+
+## Resources
+
+- [Great Analog Textbook about Transistors by Razavi](https://amzn.to/3Omil71)
+- [Analog Integrated Circuits: _Analysis and Design of Analog Integrated Circuits, 5th Edition_](https://amzn.to/3Omil71)
